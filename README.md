@@ -27,7 +27,7 @@ The goal of this project is to demonstrate the basic workflow of a Machine Learn
 </ul>
 
 <ul><h3>Run the Project</h3>
-  <li>Clone the repository : </li><br>
+  <li>Clone the repository : https://github.com/sakshirathore1403-debug/Student-Exam-Score-Prediction.git</li><br>
   <li>Navigate to the project folder : cd score-prediction-model (path of the folder)</li><br>
   <li>Install required libraries : pip install pandas,numpy,matplotlib,scikit-learn,streamlit</li><br>
   <li>Run the project : streamlit run score_prediction.py (name of the python file)</li><br>
